@@ -11,7 +11,7 @@ To achieve the learning objectives, we plan the following contents:
 
 2. **Strategic Process Management (SPM)**. Identify initiatives by using the Strategic Process Management method. 
 
-3.** Business Process Modelling (MOD)**. Modelling with the standard BPMN 2.0. Modelling participants, artefacts, gateways, activities, and events. It is
+3. **Business Process Modelling (MOD)**. Modelling with the standard BPMN 2.0. Modelling participants, artefacts, gateways, activities, and events. It is
 suggested to revise the web page of camunda.com, in addition, to revise the web page of Camunda Modeller (signavio). Implementations of forms and decision rules modelled in notation DMN 1.0 (Decision Modelling and Notation,
 
 4. **Business Process Analysis and Optimisation (AOPT)**. Improvement strategies: uncertainty reduction and decision rules improvement, automation, and capacity planning. Basic analysis using token game and advanced analysis using stochastic simulation. 
